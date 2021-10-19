@@ -432,7 +432,7 @@ nav .menu-btn{
             width: 100%;
             margin: 0px;
             position: static;   
-            transform: translate(0, 70px);
+            transform: translate(0, 65px);
             background-image: url("images/bg2.png");
             background-repeat: no-repeat;
             background-size: cover;
